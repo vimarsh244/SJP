@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Tic_Tac_Toe_Game
+comment0.text=\r\n\ Algorithm\ is\ as\:\r\n\ \r\n\ it\ checks\ if\ It\ wins\r\n\ It\ checks\ if\ i\ win\r\n\ checks\ for\ good\ available\ moves\r\n\ does\ a\ random\ move\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=boolean\ isDraw()
+comment11.params=board
+comment11.target=char[][]\ createBoardCopy(char[][])
+comment2.params=
+comment2.target=void\ initializeBoard()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=
+comment4.target=java.lang.String\ getUserMove()
+comment5.params=
+comment5.target=java.lang.String\ getComputerMove()
+comment6.params=player\ move
+comment6.target=boolean\ validateMove(char,\ java.lang.String)
+comment7.params=player\ move
+comment7.target=void\ markMoveOnBoard(char,\ java.lang.String)
+comment8.params=board
+comment8.target=java.lang.String\ getGameStatus(char[][])
+comment9.params=player\ inputboard
+comment9.target=boolean\ isWinning(char,\ char[][])
+numComments=12
