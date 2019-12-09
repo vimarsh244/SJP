@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Tic_Tac_Toe_Game
+comment0.text=\r\n\ \r\n\ Code\ By\:\r\n\ Vimarsh\ A\ Shah\r\n\ Class\:\ XB\r\n\ Roll\ No.\:\ 24\r\n\ Zydus\ School\ for\ Excellence\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Computer\ Practical\ Project\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ Algorithm\ is\ as\ follows\:\r\n\ \r\n\ Computer\ checks\ if\ the\ move\ by\ user\ is\ valid\ or\ not\r\n\ Checks\ if\ player\ or\ it\ wins\ or\ is\ it\ a\ draw\ match\r\n\ Computer\ checks\ if\ it\ can\ win\ \r\n\ Algorithm\ checks\ if\ user\ is\ winning\r\n\ checks\ for\ good\ available\ move\r\n\ does\ a\ random\ move\ if\ not\ getting\ any\r\n\ \r\n\ X\:\ User\r\n\ O\:\ Computer\r\n\ \r\n
+comment1.params=
+comment1.target=void\ main()
+comment10.params=
+comment10.target=boolean\ isDraw()
+comment11.params=board
+comment11.target=char[][]\ createBoardCopy(char[][])
+comment2.params=
+comment2.target=void\ newBoard()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=
+comment4.target=java.lang.String\ getUserMove()
+comment5.params=
+comment5.target=java.lang.String\ getComputerMove()
+comment6.params=player\ move
+comment6.target=boolean\ validateMove(char,\ java.lang.String)
+comment7.params=player\ move
+comment7.target=void\ markMoveOnBoard(char,\ java.lang.String)
+comment8.params=board
+comment8.target=java.lang.String\ getGameStatus(char[][])
+comment9.params=player\ inputboard
+comment9.target=boolean\ isWinning(char,\ char[][])
+numComments=12
